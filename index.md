@@ -1,6 +1,7 @@
 ## Welcome to Assignment 3
 1. [Matrix Representation](https://bl.ocks.org/aabajaj2/00d03fe935367b5d144da9ae7e957c02)
 2. [Force-directed graph](https://bl.ocks.org/aabajaj2/ab995c6cb0981a7ad07c4a4c29ef88b8)
+2. [Force-directed graph version 2 with more attractive force](https://bl.ocks.org/aabajaj2/90e4f1c68926008bdfde059874dd7043)
 
 ## Welcome to Assignment 2
 1. [Bar Chart](https://bl.ocks.org/aabajaj2/488cddbf5c9c3998cd623cd70efd2e47)
