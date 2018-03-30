@@ -3,7 +3,7 @@
 2. [Line Chart](https://bl.ocks.org/aabajaj2/aab9c07a8f48e1449446d01a14128d05)
 3. [Scatter plot - bivariate](https://bl.ocks.org/aabajaj2/349f92de48395796a52387ce280835b3)
 4. [Scatter plot - trivariate](https://bl.ocks.org/aabajaj2/44a0f54982e5bf8b9398e7e0436ebbee)
-5. [Trellis plots](https://bl.ocks.org/aabajaj2/44a0f54982e5bf8b9398e7e0436ebbee)
+5. [Trellis plots](https://bl.ocks.org/aabajaj2/c2f45241607c64c82d65c5f44b844d73)
 6. [Scatterplot matrix (SPLOM)](https://bl.ocks.org/aabajaj2/3b4439d0f36a60962c55ed86c177d579)
 7. [Parallel coordinates](https://bl.ocks.org/aabajaj2/8de22e865c7db96b1721180a80a2ca81)
 
