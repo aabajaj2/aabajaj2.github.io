@@ -1,3 +1,6 @@
+## Welcome to Assignment 5 - The line graph with interaction
+1. [Bar Chart](https://bl.ocks.org/aabajaj2/e6d7a5af68b134b3072e7f77524a8fb2/fac087ab89d514a2a0847ae25b1587e13b836189)
+
 ## Welcome to Assignment 4 - The graphs using D3
 1. [Bar Chart](https://bl.ocks.org/aabajaj2/aec3087bb53b5bd18d0eccedeb353d89)
 2. [Line Chart](https://bl.ocks.org/aabajaj2/aab9c07a8f48e1449446d01a14128d05)
